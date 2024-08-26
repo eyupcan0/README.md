@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Eyüpcan</h1>
+<h1 align="center">Hi 👋, I'm Eyüpcan Ekiz</h1>
 <h3 align="center">
-🔮 Girişimci, araştırma yapmayı seven, yazılımla ilgili yeni teknolojiler öğrenmeyi seven bir kişiyim.</h3>
+- 🔮 Girişimci, araştırma yapmayı seven, yazılımla ilgili yeni teknolojiler öğrenmeyi seven bir kişiyim.</h3>
 
-- 🌱 Şu an **Web Programlama adına istekli olup kendimi bu alanda geliştirme sürecindeyim.**
+- 🌱 Şu an **Frontend Programlama adına istekli olup kendimi bu alanda geliştirme sürecindeyim.**
 
-- 👨‍💻 Projelerime buradan ulaşabilirsiniz -> [https://github.com/eyupcan0?tab=repositories](https://github.com/eyupcan0?tab=repositories)
+- 👨‍💻 Projelerime buradan ulaşabilirsiniz -> [Github-Repositories](https://github.com/eyupcanekiz?tab=repositories)
 
 - 📫 Bana buradan ulaşabilirsiniz **eyupcanekiz0@gmail.com**
 
